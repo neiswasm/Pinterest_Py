@@ -1,0 +1,11 @@
+# Pinterest API client library
+pinterest-api-client==0.0.7
+
+# Requests library for making HTTP requests
+requests==2.26.0
+
+# Pagination library for handling API pagination
+python-pagination==1.0.0
+
+# JSON library for handling JSON data
+simplejson==4.5.0
